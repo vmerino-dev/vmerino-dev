@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a Computer **Engineering student**, I have a technical degree in network systems administration and I am currently training in the Frontend sector.
 <!--
 **vmerino-dev/vmerino-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
