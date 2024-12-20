@@ -1,5 +1,7 @@
+# Víctor Merino - vmerino-dev
 ## Hi there 👋
-I am a Computer **Engineering student**, I have a technical degree in network systems administration and I am currently training in the Frontend sector.
+I am a **Computer Engineering** student, I have a technical degree in network systems administration and I am currently training in the Frontend sector.
+My goal is to be a DevOps developer.
 <!--
 **vmerino-dev/vmerino-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
