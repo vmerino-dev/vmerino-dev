@@ -1,5 +1,5 @@
-# Víctor Merino - vmerino-dev
-## Hi there 👋
+# Víctor Merino 
+## vmerino-dev 🧑‍💻
 I am a **Computer Engineering** student, I have a technical degree in network systems administration and I am currently training in the Frontend sector.
 My goal is to be a DevOps developer.
 <!--
