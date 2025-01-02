@@ -3,8 +3,6 @@
 I am a **Computer Engineering** student, I have a technical degree in network systems administration and I am currently training in the Frontend sector.
 My goal is to be a DevOps developer.
 
-## 📊 Estadísticas de mi GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
 <!--
 **vmerino-dev/vmerino-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
