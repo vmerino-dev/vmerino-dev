@@ -9,6 +9,9 @@ My goal is to be a DevOps developer.
 ## 📊 Stats
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vmerino-dev&show_icons=true&theme=radical)
 
+## 👀 Views
+![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue)
+
 
 <!--
 **vmerino-dev/vmerino-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
