@@ -9,7 +9,7 @@ My goal is to be a DevOps developer.
 ## 📊 Stats
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vmerino-dev&show_icons=true&theme=radical)
 
-## 📈 Actividad reciente
+## 📈 Recent Activity
 ![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=vmerino-dev&theme=react-dark)
 
 ## 👀 Views
