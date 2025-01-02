@@ -3,10 +3,10 @@
 I am a **Computer Engineering** student, I have a technical degree in network systems administration and I am currently training in the Frontend sector.
 My goal is to be a DevOps developer.
 
-## 🛠️ Lenguajes más usados
+## 🛠️ Most used languages
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=vmerino-dev&layout=compact&theme=radical)
 
-## 📊 Estadísticas de mi GitHub
+## 📊 Stats
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vmerino-dev&show_icons=true&theme=radical)
 
 
