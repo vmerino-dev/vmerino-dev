@@ -10,7 +10,7 @@ My goal is to be a DevOps developer.
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vmerino-dev&show_icons=true&theme=radical)
 
 ## 👀 Views
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue)
+![Visitas](https://komarev.com/ghpvc/?username=vmerino-dev&color=blue)
 
 
 <!--
